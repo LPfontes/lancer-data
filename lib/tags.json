@@ -354,5 +354,10 @@
     "id": "tg_npc_tech",
     "name": "NPC Tech Action",
     "description": "This NPC Feature is categorized as a TECH ACTION"
+  },
+  {
+    "id": "tg_cost_core_power",
+    "name": "Cost: Core Power",
+    "description": "Activating this system or weapon expends 1 CORE POWER."
   }
 ]
