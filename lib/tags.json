@@ -356,8 +356,8 @@
     "description": "This NPC Feature is categorized as a TECH ACTION"
   },
   {
-    "id": "tg_cost_core_power",
-    "name": "Cost: Core Power",
-    "description": "Activating this system or weapon expends 1 CORE POWER."
+    "id": "tg_active_cp",
+    "name": "Active ({VAL} CP)",
+    "description": "The system costs {VAL} Core Power to activate, and is thus generally usable once per mission."
   }
 ]
